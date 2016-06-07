@@ -1,4 +1,7 @@
 # From Collision To Exploitation : Unleashing Use-After-Free Vulnerabilities in Linux Kernel
+
+_By Dong Yuan (2015210938) _
+
 _会议：CCS 2015_
 
 _作者：Wen Xu, Juanru Li, Junliang Shu,Wenbo Yang Tianyi Xie, Yuanyuan Zhang∗ , Dawu Gu_
