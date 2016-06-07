@@ -1,5 +1,7 @@
 # Sedic: Privacy-Aware Data Intensive Computing on Hybrid Clouds
 
+_By Dong Yuan (2015210938) _
+
 _会议：CCS 2011_
 
 _作者：Kehuan Zhang, Xiaoyong Zhou, Yangyi Chen and XiaoFengWang, Yaoping Ruan_
