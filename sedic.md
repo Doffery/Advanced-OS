@@ -1,6 +1,7 @@
 # Sedic: Privacy-Aware Data Intensive Computing on Hybrid Clouds
 
-_By Dong Yuan (2015210938) _
+_By 元东 2015210938_
+_& 邓志会 2015210926_
 
 _会议：CCS 2011_
 
