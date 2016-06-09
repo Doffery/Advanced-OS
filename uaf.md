@@ -1,6 +1,7 @@
 # From Collision To Exploitation : Unleashing Use-After-Free Vulnerabilities in Linux Kernel
 
-_By Dong Yuan (2015210938) _
+_By 元东 2015210938_
+_& 邓志会 2015210926_
 
 _会议：CCS 2015_
 
